@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="textbox_content"></string>
+    <string name="error"></string>
+    <string name="geo_opener_button">Opener</string>
+    <string name="geo_notepad_button">Notepad</string>
+    <string name="enter">Enter</string>
+    <string name="go_back">Go Back</string>
+    <string name="launch_settings">Change Preferences</string>
+    <string name="return_to_main">Return to Main</string>
+    <string name="location_error">Your location preferences were problematic. Please change them</string>
+</resources>
